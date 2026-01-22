@@ -28,6 +28,17 @@ frontend/
 
 ---
 
+## API Endpoints
+
+- `GET /api/fortune` → Returns a random fortune  
+- `GET /api/joke` → Returns a random joke  
+- `GET /api/vibe?mood=happy|tired|stressed` → Returns a vibe message and emoji  
+- `POST /api/smash` → Increments the smash counter  
+- `GET /api/smashes` → Returns the current smash count  
+- `GET /api/secret?code=411L` → Returns a hidden message if the code is correct  
+
+---
+
 ## How to Execute
 
 ### 1. Setup Backend
