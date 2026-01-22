@@ -3,8 +3,11 @@ A small full-stack project that combines a basic Express backend with a simple b
 
 What This Project Includes
 Backend (Node.js + Express)
+
 -A server that returns JSON responses.
+
 -Routes that generate fortunes, jokes, vibe messages, and a running smash counter.
+
 -A secret route that reveals a hidden message when the correct code is provided.
 
 Frontend (HTML + JavaScript)
